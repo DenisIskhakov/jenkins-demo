@@ -14,7 +14,7 @@ pipelineJob('theme-park-job') {
                     remote {
                         url 'https://github.com/DenisIskhakov/jenkins-springboot.git'
                     }
-                    branch 'simplified-for-ci'
+                    branch 'main'
                 }
             }
         }
